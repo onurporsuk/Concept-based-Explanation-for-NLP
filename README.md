@@ -11,6 +11,7 @@ This repository contains code and documentation for the replication study titled
 - [Methods](#methods)
 - [Results](#results)
 - [Contributing](#contributing)
+- [License](#license)
 
 ## Dataset
 
@@ -38,3 +39,7 @@ The results obtained from the replication study can be viewed in the paper:
 ## Contributing
 
 Contributions to improve the replication study or address issues are welcome! Feel free to fork the repository, make changes, and submit pull requests.
+
+## License
+
+This project is licensed under the MIT. Refer to the LICENSE file for more details.
